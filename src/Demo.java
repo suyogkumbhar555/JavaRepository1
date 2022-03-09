@@ -5,7 +5,7 @@ public class Demo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		List mylist = new ArrayList();
+		List<Object>mylist=new ArrayList<Object>();
 		mylist.add(100);
 		mylist.add("Hello");
 		mylist.add(3.4);
